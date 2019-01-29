@@ -1,11 +1,7 @@
 html {
-  font-family: "Open Sans", sans-serif;
   width: 100vw;
 }
 
-strong {
-  color: rgb(109, 77, 159);
-}
 a {
   color: black;
 }
@@ -50,7 +46,10 @@ h2 {
   margin: auto;
   color: black;
 }
-ion-icon {
+.meantime ion-icon {
   font-size: 3em;
-  padding: 20px;
+  padding: 20px 30px;
+}
+.meantime ion-icon:hover {
+  color: rgb(109, 77, 159);
 }

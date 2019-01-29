@@ -13,9 +13,9 @@ class App extends Component {
           <div className="header-text">
             <h1>Hey There!</h1>
             <h2>
-              My name is Lauren. I am a designer and developer.
+              My name is Lauren and I am a designer and developer.
               <br />
-              Let's create something great together.
+              Let's create something amazing together.
             </h2>
           </div>
         </div>
@@ -34,14 +34,14 @@ class App extends Component {
               <ion-icon name="code-working" />
             </a>
             <a href="mailto:lauren4c@gmail.com">
-              <ion-icon name="send" />
+              <ion-icon name="mail" />
             </a>
           </div>
         </div>
         <div className="footer">
           <p className="footer-text">
-            Hand-coded in Summit County, Colorado. ©{this.getYear()} Lauren
-            Forcey
+            Coded with <ion-icon name="heart" /> in Summit County, Colorado. ©
+            {this.getYear()} Lauren Forcey
           </p>
         </div>
       </div>
