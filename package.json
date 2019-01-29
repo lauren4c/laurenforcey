@@ -2,6 +2,7 @@
   "name": "laurenforcey",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.laurenforcey.com",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
